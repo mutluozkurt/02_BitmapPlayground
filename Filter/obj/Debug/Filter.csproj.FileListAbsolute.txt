@@ -1,0 +1,6 @@
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\Filter\bin\Debug\Filter.dll
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\Filter\bin\Debug\Filter.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.dll
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\Filter\obj\Debug\Filter.csprojAssemblyReference.cache

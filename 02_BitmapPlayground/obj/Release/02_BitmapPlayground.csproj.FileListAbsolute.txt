@@ -1,0 +1,13 @@
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Release\02_BitmapPlayground.exe.config
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Release\02_BitmapPlayground.exe
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Release\02_BitmapPlayground.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\02_BitmapPlayground.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\_02_BitmapPlayground.Form1.resources
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\_02_BitmapPlayground.Properties.Resources.resources
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\02_BitmapPlayground.csproj.GenerateResource.cache
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\02_BitmapPlayground.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\02_BitmapPlayground.exe
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\02_BitmapPlayground.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Release\Filter.dll
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Release\Filter.pdb
+C:\Users\KAHLA-SSD\Downloads\Software developer interview Lunes V2\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Release\02_BitmapPlayground.csproj.CopyComplete
